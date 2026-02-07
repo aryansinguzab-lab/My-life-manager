@@ -1,7 +1,7 @@
 {
-  "name": "Life Manager",
-  "short_name": "LifeMgr",
-  "start_url": "casbook.html",
+  "name": "School Manager",
+  "short_name": "School support",
+  "start_url": "/Manage_school/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#4CAF50",
